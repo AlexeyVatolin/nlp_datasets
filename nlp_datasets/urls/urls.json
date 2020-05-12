@@ -1,0 +1,7 @@
+{
+  "lenta": "https://github.com/yutkin/Lenta.Ru-News-Dataset/releases/download/v1.0/lenta-ru-news.csv.gz",
+  "reviews": "https://github.com/zhanymkanov/russian_reviews_dataset/raw/master/data/all.csv.zip",
+  "banki_ru": "https://www.dropbox.com/s/vmcj0ihro0c2cjl/banki_ru_train.csv.zip?dl=1",
+  "agrr_train": "https://github.com/dialogue-evaluation/AGRR-2019/raw/master/train.csv",
+  "agrr_dev": "https://github.com/dialogue-evaluation/AGRR-2019/raw/master/dev.csv"
+}
